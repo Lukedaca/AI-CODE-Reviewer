@@ -169,11 +169,3 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## 📞 Kontakt
 lukas.drsticka@gmail.com
 + 420 721624429
-
-- **Email**: [váš email]
-- **LinkedIn**: [váš LinkedIn]
-- **GitHub**: [váš GitHub profile]
-
----
-
-⭐ **Star this repo** pokud vám projekt pomohl!
